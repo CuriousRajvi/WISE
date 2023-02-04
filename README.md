@@ -29,7 +29,6 @@ WISE helps women find the field they are really interested in and can further pu
 <img src="https://user-images.githubusercontent.com/66167509/216792935-9388eeae-1571-4e81-ba32-ba2432901b42.png">
 <img src="https://user-images.githubusercontent.com/66167509/216792941-74a9d9db-c691-42b9-9ed3-db2cd544c134.png">
 <img src="https://user-images.githubusercontent.com/66167509/216792944-6295ee96-ded4-4bb7-bd1d-afd9edfc4833.png">
-<img src="https://user-images.githubusercontent.com/66167509/216792945-ec096197-1a30-4010-b9ea-eaa00410a991.png">
 <img src="https://user-images.githubusercontent.com/66167509/216792951-4533739c-e0d3-4b7c-b107-99c53990f334.png">
 <img src="https://user-images.githubusercontent.com/66167509/216792954-26068c05-91a2-4046-9eb2-11180d25b0b8.png">
 
