@@ -28,18 +28,20 @@ WISE helps women find the field they are really interested in and can further pu
 
 <h1> Future Improvement</h1>
 <ol>
-1.	Offer interactive features such as chatbots, discussion forums, and webinars to help young girls connect with mentors and peers.
-2.	Women in Research
-3.	Direct applying to jobs features
-4.	Introducing Paid module: 
-a.	From mentors (commission)
-b.	From mentees
-c.	Jobs publish
-d.	Applicants
+<li>Offer interactive features such as chatbots, discussion forums, and webinars to help young girls connect with mentors and peers.
+<li>Women in Research
+<li>Direct applying to jobs features
+<li>Introducing Paid module: 
+  <ol>
+    <li>From mentors (commission)
+    <li>From mentees
+    <li>Jobs publish
+    <li>Applicants
 </ol>
 
 <h1>Tech Stack</h1>
-Html
-CSS
-Javascript
+<ul>
+<li>Html
+<li>CSS
+<li>Javascript
 
